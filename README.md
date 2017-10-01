@@ -3,10 +3,11 @@
 This is a respository to explore the React tutorial [Thinking in React](https://reactjs.org/docs/thinking-in-react.html).
 
 
+## Project source
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-The most recent version of the guide is [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+The most recent version of the Create React App guide is [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Available Scripts
 

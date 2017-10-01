@@ -1,5 +1,12 @@
 body {
   margin: 0;
-  padding: 0;
+  padding: 5px;
   font-family: sans-serif;
+  text-align: left;
+}
+
+.container {
+  padding: 1rem;
+  border: solid gray 1px;
+  width: 170px;
 }
